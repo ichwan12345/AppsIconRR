@@ -2,7 +2,7 @@
  "name": "RR SPORTS",
  "display": "standalone",
  "prefer_related_applications": false,
- "start_url":"https://www.app-tokosenapanangin.com/",
+ "start_url":"www.app-tokosenapanangin.com/?utm_source=homescreen",
  "scope":"/",
  "background_color": "#009cff",
  "theme_color": "#009cff",
